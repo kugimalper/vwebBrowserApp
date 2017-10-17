@@ -109,6 +109,8 @@ class WebStettingsViewController: UIViewController, UIPickerViewDelegate, UIPick
         }
         searchHistoryLabel.text = searchEntry
         
+        print ("alper")
+        
     }
 
     override func didReceiveMemoryWarning() {
